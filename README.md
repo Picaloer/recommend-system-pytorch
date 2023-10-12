@@ -5,7 +5,7 @@ tree
 │  README.md
 │  requirements.txt
 ├─api
-│      recommendation.py			# 推荐算法api(给一个user_id, 返回一个[item_id1, item_id2, ...])
+│      recommendation.py			# 推荐算法api
 ├─data_loader
 │      dataloader_ml100k.py			# 加载数据集中数据
 ├─data_set
